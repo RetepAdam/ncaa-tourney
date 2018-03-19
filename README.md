@@ -1,1 +1,1 @@
-# ncaa-tourney
+Working on a logistic NCAA Men's Basketball Tournament model, using inputs from KenPom and FiveThirtyEight. Will add others as found. Long-term goal is to use lineup data to try to build a more sophisticated prediction model, but for now, I'll use this as a home for a simple logistic setup.
